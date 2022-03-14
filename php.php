@@ -1,1 +1,1 @@
-https://servlipinendforends.000webhostapp.com/cssUpdate/views/
+https://servlipinendforends.000webhostapp.com/wewe
