@@ -1,1 +1,1 @@
-https://servlipinendforends.000webhostapp.com/wewe
+http://localhost:8084/server/server.php
